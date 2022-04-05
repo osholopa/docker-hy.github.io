@@ -3,7 +3,7 @@ const courseSettings = {
   name: "DevOps with Höhöhöö",
   siteUrl: "https://devopswithdocker.com",
   githubUrl: "https://github.com/docker-hy/docker-hy.github.io",
-  subtitle: "Containers for Beginners",
+  subtitle: "Containers for Beginnerz",
   slug: "docker-21",
   organizationName: "MOOC",
   tmcCourse: "docker-21",
