@@ -1,6 +1,6 @@
 const courseSettings = {
   language: "en",
-  name: "DevOps with Docker",
+  name: "DevOps with Höhöhöö",
   siteUrl: "https://devopswithdocker.com",
   githubUrl: "https://github.com/docker-hy/docker-hy.github.io",
   subtitle: "Containers for Beginners",
